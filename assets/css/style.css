@@ -66,8 +66,7 @@ nav a {
   border-radius: 10px;
 }
 
-nav a:hover {
-    /* color: var(--light); */
+nav a:hover, #resume a:hover, #contact a:hover {
     background-color: var(--light);
   }
 
@@ -134,30 +133,88 @@ nav a:hover {
 }
 
 .workContent img {
-  /* width: 100%; */
+  max-width: 100%;
   filter: grayscale(70%);
   transition: filter 0.5s ease;
-  border: solid 10px;
+  border: solid 10px var(--dark);
   box-sizing: border-box;
   margin-bottom: 10px;
-}
-
-.workContent img:first-child {
-  width: 100%;
-}
-
-.workContent img:nth-child(n+2) {
-  width: 49%;
-  max-width: 583px;
 }
 
 .workContent img:hover {
   filter: grayscale(0%);
 }
 
-#project2 {
-  margin-right: 10px;
+#project1 {
+  position: relative;
+  display: inline-block;
+
 }
+
+#project1 p {
+  position: absolute;
+  background-color: var(--dark);
+  top: 0;
+  left: 0;
+  color: var(--darkBlue);
+  font-size: 20px;
+  padding: 5px 20px 5px 25px;
+  margin-left: 0;
+  line-height: 1;
+}
+
+#project1 span {
+  font-size: 15px;
+}
+
+#project2 {
+  position: relative;
+  display: inline-block;
+  margin-right: 20px;
+  box-sizing: border-box;
+  max-width: 48%;
+}
+
+#project2 p {
+  position: absolute;
+  background-color: var(--dark);
+  top: 0;
+  left: 0;
+  color: var(--darkBlue);
+  font-size: 20px;
+  padding: 5px 10px 5px 25px;
+  margin-left: 0;
+  line-height: 1;
+}
+
+#project2 span {
+  font-size: 15px;
+}
+
+#project3 {
+  position: relative;
+  display: inline-block;
+  margin-right: 0;
+  box-sizing: border-box;
+  max-width: 48%;
+}
+
+#project3 p {
+  position: absolute;
+  background-color: var(--dark);
+  top: 0;
+  left: 0;
+  color: var(--darkBlue);
+  font-size: 20px;
+  padding: 5px 10px 5px 25px;
+  margin-left: 0;
+  line-height: 1;
+}
+
+#project3 span {
+  font-size: 15px;
+}
+
 
 #contact {
   display: flex;
@@ -185,6 +242,43 @@ nav a:hover {
 }
 
 #contact a {
+  background-color: none;
+  padding: 10px;
+  font-weight: bold;
+  color: var(--navlink-color);
+  font-size: 125%;
+  text-decoration: none;
+  border-bottom: solid;
+  border-radius: 10px;
+}
+
+
+#resume {
+  display: flex;
+}
+
+#resume h2 {
+  width: 25%;
+  text-align: right;
+  padding-right: 20px;
+  box-sizing: border-box;
+  font-size: 250%;
+}
+
+#resume p {
+  box-sizing: border-box;
+  width: 75%;
+  text-align: left;
+  padding: 0 100px 0 25px;
+  border-left: solid;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 400px;
+  align-items: center;
+}
+
+#resume a {
   background-color: none;
   padding: 10px;
   font-weight: bold;
