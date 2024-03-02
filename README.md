@@ -8,24 +8,34 @@ I am a passionate developer with experience in web development and gaming. I lov
 
 ## Projects
 
-### Project 1: [Horiseon Marketing webpage]
+### Project 1: Horiseon Marketing webpage
+
+- **Description**: Provided semantic HTML for the Horiseon Marketing webpage.
+- **Technologies**: HTML, CSS
+- **Demo**: https://babbalicious.github.io/horiseon-marketing/
+- **Repository**: https://github.com/Babbalicious/horiseon-marketing
+
+### Project 2: JavaScript Project
+
+- **Description**: JavaScript project
+- **Technologies**: JavaScript
+- **Demo**: N/A
+- **Repository**: N/A
+
+### Project 3: Node.js Project
 
 - **Description**: Brief description of the project.
 - **Technologies**: List of technologies used.
 - **Demo**: Link to the live demo or deployment (if available).
 - **Repository**: Link to the project repository.
 
-[Add more projects as necessary]
-
 ## Contact Me
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities.
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
-- **Personal Website/Blog**: [Your Personal Website or Blog URL]
+- **Email**: ccbabb@gmail.com
+- **GitHub**: https://github.com/Babbalicious
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).

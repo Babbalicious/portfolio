@@ -75,7 +75,7 @@ nav a:hover, #resume a:hover, #contact a:hover {
 .subtitle {
     display: flex;
     justify-content: end;
-    background-image: url("/assets/images/orangeBackground.png")
+    background-image: url("assets/images/orangeBackground.png")
 }
 
 .subtitle h2 {
