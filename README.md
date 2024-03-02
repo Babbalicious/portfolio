@@ -4,7 +4,13 @@ Welcome to my portfolio! This repository showcases my projects and provides info
 
 ## About Me
 
-I am a passionate developer with experience in web development and gaming. I love building web applications, mobile apps, and working on back-end development. I am constantly learning new technologies and trying to improve my skills.
+I am a passionate developer with experience in web development and game development. I love building web applications and games, mobile apps, and working on back-end development. I am constantly learning new technologies and trying to improve my skills.
+
+## Portfolio website:
+
+![Portfolio screenshot](assets/images/screenshot.png)
+
+Link to my portfolio: https://babbalicious.github.io/portfolio/
 
 ## Projects
 
@@ -24,10 +30,10 @@ I am a passionate developer with experience in web development and gaming. I lov
 
 ### Project 3: Node.js Project
 
-- **Description**: Brief description of the project.
-- **Technologies**: List of technologies used.
-- **Demo**: Link to the live demo or deployment (if available).
-- **Repository**: Link to the project repository.
+- **Description**: Node.js project
+- **Technologies**: Node.js
+- **Demo**: N/A
+- **Repository**: N/A
 
 ## Contact Me
 
