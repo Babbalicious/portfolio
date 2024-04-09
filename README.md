@@ -21,12 +21,12 @@ Link to my portfolio: https://babbalicious.github.io/portfolio/
 - **Demo**: https://babbalicious.github.io/horiseon-marketing/
 - **Repository**: https://github.com/Babbalicious/horiseon-marketing
 
-### Project 2: JavaScript Project
+### Project 2: Health and Fitness Tracker
 
-- **Description**: JavaScript project
-- **Technologies**: JavaScript
-- **Demo**: N/A
-- **Repository**: N/A
+- **Description**: Health and Fitness Portfolio
+- **Technologies**: API fetch
+- **Demo**: https://pauldsherrill.github.io/fitness-tracker-project/
+- **Repository**: https://github.com/pauldsherrill/fitness-tracker-project
 
 ### Project 3: Node.js Project
 
